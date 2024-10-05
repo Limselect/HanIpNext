@@ -4,5 +4,5 @@ export default function Page() {
   const router = useRouter();
   const { id } = router.query;
 
-  return <h1>book {id}</h1>;
+  return <h1>Book {id}</h1>;
 }
