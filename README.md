@@ -1,4 +1,4 @@
-## 과제
+## 과제 day02
 
 1. "/" 인덱스 페이지
 ![스크린샷 2024-10-05 144038](https://github.com/user-attachments/assets/3bcd7289-b62e-48c0-8452-61d82b1e31bf)
